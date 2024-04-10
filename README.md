@@ -8,6 +8,7 @@ para não correr problemas na hora da instalação ⚠️.
 Faça download dos arquivos necessarios para a instalção do pacote office.
 
 Link Oficial Microsft:
+
 1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
 2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
 
