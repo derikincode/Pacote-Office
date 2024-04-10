@@ -13,8 +13,10 @@ Link Oficial Microsft:
 2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
 
 Recomendaçãoes de personalizão do Office
+
 Office Suites:
 Office LTSC Professional Plus 2021 — Licença de Volume
+
 Idiomas:
 Corresponder com o Sistema Operacional
 
