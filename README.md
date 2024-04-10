@@ -41,7 +41,7 @@ cd c:\MS OFFICE SETUP
 setup.exe /configure Configuração.xmlcd\
 cd c:\MS OFFICE SETUP
 setup.exe /configure Configuração.xml
-Pronto!! Agora aguarde até, que a instalação seja concluida.
 ```
+Pronto!! Agora aguarde até, que a instalação seja concluida.
 
 By Derik-dev
