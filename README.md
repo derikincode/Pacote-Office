@@ -2,7 +2,7 @@
 Tutorial de como baixar o software do melhor pacote office Atualmente, esse e pra queles que não curtem o Pacote Office Microsoft 365.
 utorial de instalação oficial da Microdoft, O melhor Pacote Office LTSC Profissional Plus V.2021
 
-⚠️ Primeiramente recomendo desinstalar, quais quer versões do Pacote Office instala em sua máquina,
+⚠️ Primeiramente recomendo desinstalar quais quer versões do Pacote Office instala em sua máquina,
 para não correr problemas na hora da instalação ⚠️.
 
 Faça download dos arquivos necessarios para a instalção do pacote office.
