@@ -31,7 +31,7 @@ Passo 4: Crie uma nova pasta chamada "MS OFFICE SETUP".
 
 Passo 5: Cole os arquivos de instalação dentro da nova pasta criada.
 
-Passo 6: Execute o arquivo "officedeploymenttool_17328-20162.exe". Navegue até "Este Computador" e depois "Disco Local (C:)". Selecione a pasta "MS OFFICE SETUP".
+Passo 6: Execute o software "officedeploymenttool_17328-20162.exe". Navegue até "Este Computador" e depois "Disco Local (C:)". Selecione a pasta "MS OFFICE SETUP".
 
 Passo 7: Agora, abra o Prompt de Comando (CMD) como Administrador.
 
