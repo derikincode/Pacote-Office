@@ -6,9 +6,12 @@ para não correr problemas na hora da instalação ⚠️.
 
 Faça download dos arquivos necessários para a instalção do pacote office.
 
-Link Oficial Microsft:
+---------------------------------------------------------------------------------------------------------
 
 ⚠️ CASO QUERIA UMA PERSONALIÇÂO DE OFFICE, DIFERENTE DOS ARQUIVOS PRESENTES NO REPOSITORIO ⚠️
+
+Link Oficial Microsft:
+
 
 1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
 
