@@ -1,9 +1,0 @@
-Ativação do Pacote Office 180 dias (6 Mêses)
-
-Obs: Apos o 180 dias e só executar o comando e ativar novamente por 180 dias
-
-1 - Abra o Windows powerShell como admistrador.
-2 - Digite esse comando:
-```brenc
-irm https://massgrave.dev/get | iex
-```
