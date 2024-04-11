@@ -52,7 +52,7 @@ Pronto!! Agora aguarde até, que a instalação seja concluida.
 
 Ativação do Pacote Office 180 dias (6 Mêses)
 
-Obs: Apos o 180 dias e só executar o comando e ativar novamente por 180 dias.
+Obs: Após os 180 dias e refazer a ativação novamente por 180 dias.
 
 Passo 1: Abra o Windows powerShell como admistrador.
 Passo 2: Digite o seguinte comando:
