@@ -9,6 +9,7 @@ Faça download dos arquivos necessários para a instalção do pacote office.
 Link Oficial Microsft:
 
 1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
+
 Depois de escolher suas "Configurações de implantação", clique em exportar depois "Formatos Office Open XML" e "Ok".
 
 2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
