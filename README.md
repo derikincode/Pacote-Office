@@ -8,17 +8,9 @@ Faça download dos arquivos necessários para a instalção do pacote office.
 
 Link Oficial Microsft:
 
+⚠️ CASO QUERIA UMA PERSONALIÇÂO DE OFFICE, DIFERENTE DOS ARQUIVOS PRESENTES NO REPOSITORIO ⚠️
+
 1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
-
-Recomendaçãoes de personalizão do Office
-
-Office Suites:
-Office LTSC Professional Plus 2021 — Licença de Volume
-
-Idiomas:
-Corresponder com o Sistema Operacional
-
-Depois de escolher suas "Configurações de implantação", clique em exportar depois "Formatos Office Open XML" e "Ok".
 
 2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
 
