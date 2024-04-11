@@ -1,4 +1,4 @@
-# Pacote-Office
+# Pacote-Office + Ativação
 Tutorial de como baixar o software do melhor pacote office Atualmente, esse e para aqueles que não curtem o Pacote Office Microsoft 365.
 
 ⚠️ Primeiramente recomendo desinstalar quais quer versões do Pacote Office instalada em sua máquina,
