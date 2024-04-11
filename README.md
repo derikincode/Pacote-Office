@@ -68,6 +68,6 @@ Passo 3: Digite a opção 4
 
 Passo 4: Digite a opção 2
 
-E.. Pronto!! Agora aguarde até, que a ativação seja concluida.
+E.. Pronto!! Agora aguarde até que a ativação seja concluida.
 
 By Derik-dev
