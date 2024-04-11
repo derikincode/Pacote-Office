@@ -27,11 +27,11 @@ Passo 2: No painel esquerdo, clique em "Este PC".
 
 Passo 3: Clique duas vezes em "Disco Local (C:)".
 
-Passo 4: Crie uma nova pasta chamada "MS Office Setup".
+Passo 4: Crie uma nova pasta chamada "MS OFFICE SETUP".
 
 Passo 5: Cole os arquivos de instalação dentro da nova pasta criada.
 
-Passo 6: Execute o arquivo "officedeploymenttool_17328-20162.exe". Navegue até "Este Computador" e depois "Disco Local (C:)". Selecione a pasta "MS Office Setup".
+Passo 6: Execute o arquivo "officedeploymenttool_17328-20162.exe". Navegue até "Este Computador" e depois "Disco Local (C:)". Selecione a pasta "MS OFFICE SETUP".
 
 Passo 7: Agora, abra o Prompt de Comando (CMD) como Administrador.
 
@@ -45,7 +45,7 @@ cd c:\MS OFFICE SETUP
 ```bash
 setup.exe /configure Configuração.xml
 ```
-``bash
+```bash
 cd c:\MS OFFICE SETUP
 ```
 ```bash
