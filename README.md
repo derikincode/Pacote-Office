@@ -52,6 +52,7 @@ Pronto!! Agora aguarde até, que a instalação seja concluida.
 
 ![Captura de tela 2024-04-11 011429](https://github.com/derik-dev/Pacote-Office/assets/85948745/a514cd24-d431-4ec0-8cc7-94de5f3362f7)
 ![Captura de tela2 2024-04-11 011858](https://github.com/derik-dev/Pacote-Office/assets/85948745/27cd5faf-5d9e-4fcf-bf64-579669d13fc1)
+![image](https://github.com/derik-dev/Pacote-Office/assets/85948745/9e86411b-bcf5-4ea9-946d-fe834a2c6dbf)
 
 ---------------------------------------------------------------------------------------------------------
 
