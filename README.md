@@ -48,4 +48,17 @@ setup.exe /configure Configuração.xml
 
 Pronto!! Agora aguarde até, que a instalação seja concluida.
 
+---------------------------------------------------------------------------------------------------------
+
+Ativação do Pacote Office 180 dias (6 Mêses)
+
+Obs: Apos o 180 dias e só executar o comando e ativar novamente por 180 dias.
+
+Passo 1: Abra o Windows powerShell como admistrador.
+Passo 2: Digite o seguinte comando:
+
+```bash
+irm https://massgrave.dev/get | iex
+```
+
 By Derik-dev
