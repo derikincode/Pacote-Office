@@ -8,7 +8,7 @@ Faça download dos arquivos necessários para a instalção do pacote office.
 
 ---------------------------------------------------------------------------------------------------------
 
-"CASO QUERIA UMA PERSONALIÇÂO DE OFFICE, DIFERENTE DOS ARQUIVOS PRESENTES NO REPOSITORIO"
+"CASO QUERIA UMA PERSONALIÇÂO DOS ARQUIVOS, DIFERENTE DOS ARQUIVOS PRESENTES NO REPOSITORIO"
 
 Link Oficial Microsft:
 
