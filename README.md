@@ -73,5 +73,10 @@ Passo 4: Digite a opção 2
 
 E.. Pronto!! Agora aguarde até, que a ativação seja concluida.
 
+---------------------------------------------------------------------------------------------------------
+
+# Contribuição
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="DerikCoding" data-color="#BD5FFF" data-emoji="🍕"  data-font="Cookie" data-text="Buy me a Pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 By Derik-dev
