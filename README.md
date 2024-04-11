@@ -63,6 +63,7 @@ irm https://massgrave.dev/get | iex
 ```
 
 Passo 3: Digite a opção 4
+
 Passo 4: Digite a opção 2
 
 E.. Pronto!! Agora aguarde até, que a ativação seja concluida.
