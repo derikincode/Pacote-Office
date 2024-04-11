@@ -45,12 +45,7 @@ cd c:\MS OFFICE SETUP
 ```bash
 setup.exe /configure Configuração.xml
 ```
-```bash
-cd c:\MS OFFICE SETUP
-```
-```bash
-setup.exe /configure Configuração.xml
-```
+
 Pronto!! Agora aguarde até, que a instalação seja concluida.
 
 By Derik-dev
