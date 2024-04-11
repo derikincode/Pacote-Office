@@ -75,8 +75,4 @@ E.. Pronto!! Agora aguarde até, que a ativação seja concluida.
 
 ---------------------------------------------------------------------------------------------------------
 
-# Contribuição
-
-![Captura de tela 2024-04-11 011423](https://img.shields.io/badge/Buy%20me%20a%20Pizza-DerikCoding-yellow)(https://www.buymeacoffee.com/DerikCoding)
-
 By Derik-dev
