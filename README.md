@@ -1,10 +1,10 @@
 # Pacote-Office
-Tutorial de como baixar o software do melhor pacote office Atualmente, esse e pra queles que não curtem o Pacote Office Microsoft 365.
+Tutorial de como baixar o software do melhor pacote office Atualmente, esse e para a queles que não curtem o Pacote Office Microsoft 365.
 
-⚠️ Primeiramente recomendo desinstalar quais quer versões do Pacote Office instala em sua máquina,
+⚠️ Primeiramente recomendo desinstalar quais quer versões do Pacote Office instalada em sua máquina,
 para não correr problemas na hora da instalação ⚠️.
 
-Faça download dos arquivos necessarios para a instalção do pacote office.
+Faça download dos arquivos necessários para a instalção do pacote office.
 
 Link Oficial Microsft:
 
@@ -38,9 +38,17 @@ Passo 7: Agora, abra o Prompt de Comando (CMD) como Administrador.
 Passo 8: Digite os seguintes comandos:
 ```bash
 cd\
+```
+```bash
 cd c:\MS OFFICE SETUP
-setup.exe /configure Configuração.xmlcd\
+```
+```bash
+setup.exe /configure Configuração.xml
+```
+``bash
 cd c:\MS OFFICE SETUP
+```
+```bash
 setup.exe /configure Configuração.xml
 ```
 Pronto!! Agora aguarde até, que a instalação seja concluida.
