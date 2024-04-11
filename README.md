@@ -10,10 +10,6 @@ Link Oficial Microsft:
 
 1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
 
-Depois de escolher suas "Configurações de implantação", clique em exportar depois "Formatos Office Open XML" e "Ok".
-
-2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
-
 Recomendaçãoes de personalizão do Office
 
 Office Suites:
@@ -21,6 +17,10 @@ Office LTSC Professional Plus 2021 — Licença de Volume
 
 Idiomas:
 Corresponder com o Sistema Operacional
+
+Depois de escolher suas "Configurações de implantação", clique em exportar depois "Formatos Office Open XML" e "Ok".
+
+2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
 
 ---------------------------------------------------------------------------------------------------------
 Passo 1: Abra o Explorador de Arquivos.
