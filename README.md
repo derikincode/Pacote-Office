@@ -1,73 +1,47 @@
-# Pacote-Office + Ativação
-Tutorial de como baixar o software do melhor pacote office Atualmente, esse e para aqueles que não curtem o Pacote Office Microsoft 365.
+# PACOTE OFFICE OFICIAL
 
-⚠️ Primeiramente recomendo desinstalar quais quer versões do Pacote Office instalada em sua máquina,
-para não correr problemas na hora da instalação ⚠️.
+[Ferramenta de Personalização do Office](https://config.office.com/deploymentsettings).
+A ferramenta cria os arquivos de configuração usados para implantar o Office em grandes organizações.
 
-Faça download dos arquivos necessários para a instalção do pacote office.
-
----------------------------------------------------------------------------------------------------------
-
-"CASO QUERIA UMA PERSONALIÇÂO DOS ARQUIVOS, DIFERENTE DOS ARQUIVOS PRESENTES NO REPOSITORIO"
-
-Link Oficial Microsft:
+Os arquivos de configuração oferecem mais controle sobre uma instalação do Office: você pode definir quais aplicativos e idiomas estão instalados, como esses aplicativos devem ser atualizados e preferências do aplicativo. Depois de criar os arquivos de configuração, você pode usá-los com a [Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/details.aspx?id=49117) para implantar uma versão personalizada do Office.
 
 
-1 - https://config.office.com/deploymentsettings (Ferramenta de Personalização do Office)
+## 📚 Documentação
+- [Ferramenta de Personalização do Office](https://config.office.com/deploymentsettings)
+- [Ferramenta de implantação do Office](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 
-2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 (Ferramenta de implantação do Office)
+## 💻 Instalação
 
----------------------------------------------------------------------------------------------------------
-Passo 1: Abra o Explorador de Arquivos.
+1. Crie uma nova pasta no seu **Disco Local (C:)** e renomeie com o nome **MS OFFICE SETUP**.
 
-Passo 2: No painel esquerdo, clique em "Este PC".
+2. Faça sua exportação da [personalização do Office](https://config.office.com/deploymentsettings), certifique-se de exportar no **Formato Office Open XML**.
 
-Passo 3: Clique duas vezes em "Disco Local (C:)".
+Arquvio: configuração.xml
 
-Passo 4: Crie uma nova pasta chamada "MS OFFICE SETUP".
+3. Faça download da [ferramenta de implantação do Office](https://www.microsoft.com/en-us/download/details.aspx?id=49117).
 
-Passo 5: Cole os arquivos de instalação dentro da nova pasta criada.
+Arquivo: officedeploymenttool_17531-20046.exe
 
-Passo 6: Execute o software "officedeploymenttool_17328-20162.exe". Navegue até "Este Computador" e depois "Disco Local (C:)". Selecione a pasta "MS OFFICE SETUP".
+4. Certifique-se se possui os arquivos nécessarios e depois coloqueos dentro da pasta criada lá no **Disco Local (C:)**.
 
-Passo 7: Agora, abra o Prompt de Comando (CMD) como Administrador.
+5. Execute o software **officedeploymenttool_17328-20162.exe**, aceite os termos depois selecione o caminho onde está a sua pasta criada.
+**Este Computador** > **Disco Local (C:)** > **MS OFFICE SETUP**.
 
-Passo 8: Digite os seguintes comandos:
-```bash
+6. Abra o Prompt de Comando (CMD) como Administrador.
+
+7. Digite os seguintes comandos:
+
+```
 cd\
 ```
-```bash
+
+```
 cd c:\MS OFFICE SETUP
 ```
-```bash
+
+```
 setup.exe /configure Configuração.xml
 ```
 
-Pronto!! Agora aguarde até, que a instalação seja concluida.
-
-# Screenshots
-
-![Captura de tela 2024-04-11 011429](https://github.com/derik-dev/Pacote-Office/assets/85948745/a514cd24-d431-4ec0-8cc7-94de5f3362f7)
-![Captura de tela2 2024-04-11 011858](https://github.com/derik-dev/Pacote-Office/assets/85948745/27cd5faf-5d9e-4fcf-bf64-579669d13fc1)
-
----------------------------------------------------------------------------------------------------------
-
-Ativação do Pacote Office 180 dias (6 Mêses)
-
-Obs: Após os 180 dias e só refazer a ativação novamente por 180 dias.
-
-Passo 1: Abra o Windows powerShell como admistrador.
-
-Passo 2: Digite o seguinte comando:
-
-```bash
-irm https://massgrave.dev/get | iex
-```
-
-Passo 3: Digite a opção 4
-
-Passo 4: Digite a opção 2
-
-E.. Pronto!! Agora aguarde até que a ativação seja concluida.
-
-By Derik-dev
+## 🔍 Referências
+- [Microsoft Build](https://learn.microsoft.com/pt-br/deployoffice/admincenter/overview-office-customization-tool)
