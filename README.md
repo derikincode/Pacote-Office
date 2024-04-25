@@ -16,11 +16,11 @@ Os arquivos de configuração oferecem mais controle sobre uma instalação do O
 
 2. Faça sua exportação da [personalização do Office](https://config.office.com/deploymentsettings), certifique-se de exportar no **Formato Office Open XML**.
 
-Arquvio: configuração.xml
+  Arquvio: configuração.xml
 
 3. Faça download da [ferramenta de implantação do Office](https://www.microsoft.com/en-us/download/details.aspx?id=49117).
 
-Arquivo: officedeploymenttool_17531-20046.exe
+  Arquivo: officedeploymenttool_17531-20046.exe
 
 4. Certifique-se se possui os arquivos nécessarios e depois coloqueos dentro da pasta criada lá no **Disco Local (C:)**.
 
