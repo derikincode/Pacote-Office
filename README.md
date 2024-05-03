@@ -43,5 +43,7 @@ cd MS OFFICE SETUP
 setup.exe /configure Configuração.xml
 ```
 
+PPRONTO! Espero que tenha conseguido fazer a instalação, caso não tenha conseguido ou estar com alguma dúvida, entre em contanto comigo que eu irei-te ajudar com prazer.
+
 ## 🔍 Referências
 - [Microsoft Build](https://learn.microsoft.com/pt-br/deployoffice/admincenter/overview-office-customization-tool)
