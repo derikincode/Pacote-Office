@@ -36,7 +36,7 @@ cd\
 ```
 
 ```
-cd c:\MS OFFICE SETUP
+cd MS OFFICE SETUP
 ```
 
 ```
